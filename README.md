@@ -26,7 +26,7 @@ There is no limit on how many connectors one individual can submit, but teams th
 
 ## Requirements
 * Must be merged by April 27th, 2023
-* Must follow the [checklist](https://github.com/airbytehq/connector-contest/blob/main/GUIDELINES.md#connector-checklist) for all requirements.
+* Must follow the [checklist](GUIDELINES.md) for all requirements.
 * Must have proper documentation for Getting Started and usage.
 * Must include a sandbox account for integration tests.
 
