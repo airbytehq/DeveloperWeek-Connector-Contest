@@ -1,4 +1,4 @@
-# Guidelines for the Airbyte Connector Contest
+# Guidelines for the DeveloperWeek Connector Contest
 
 ## Step 1
 Check out the [issues page](https://github.com/airbytehq/DeveloperWeek-Connector-Contest/issues) and look for a connector that you're interested in building. You can also check out our [connector request](https://airbyte.com/connector-requests) page to find which connectors are in most demand. If you can't find one that you want to do or if you have one already in mind that isn't here, simply create an issue for it!
