@@ -19,8 +19,8 @@ Read [here](GUIDELINES.md) for all the rules about the contest and a checklist o
 
 For every connector you create and have approved:
 * **Low-Code CDK/Connector Builder UI**: $400 for every approved PR
-* **First Place**:  $1,000
-* **Second Place**: $500
+* **First Place**:  $1,000 - The person who creates the most connctors 
+* **Second Place**: $500 -  The person who creates the second most connectors 
 
 There is no limit on how many connectors one individual can submit, but teams that submit a connector will only receive one prize per connector. You can only work on one connector issue at a time. To clarify, you will be paid for each accepted entry!
 
