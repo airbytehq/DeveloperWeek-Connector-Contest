@@ -29,7 +29,7 @@ For every connector you create and have approved:
 There is no limit on how many connectors one individual can submit, but teams that submit a connector will only receive one prize per connector. You can only work on one connector issue at a time. To clarify, you will be paid for each accepted entry!
 
 ## Requirements
-* Must be merged by April 27th, 2023
+* Must be merged by May 7th, 2023
 * Must follow the [checklist](GUIDELINES.md) for all requirements.
 * Must have proper documentation for Getting Started and usage.
 * Must include a sandbox account for integration tests.
